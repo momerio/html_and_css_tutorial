@@ -1,2 +1,7 @@
-# html_and_css_tutorial
-HTML and CSS tutorial for beginners.
+# HTMLとCSSのチュートリアル資料
+
+HTMLとCSSを始めた人が見るとわかりやすいかもしれない資料です．
+
+# 免責事項
+- 本資料に書いていることは間違っている可能性もあります．
+- 本資料が原因で起こったいかなる場合の損害でも，筆者は責任を負いません．
